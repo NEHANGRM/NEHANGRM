@@ -1,5 +1,4 @@
 ## Hi there 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;ML+Enthusiast;Edge+Computing+Researcher)
 
 <!--
 **NEHANGRM/NEHANGRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
